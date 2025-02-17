@@ -14,8 +14,8 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/your-repo/contact-management.git
-cd contact-management
+git clone https://github.com/your-repo/niswey.git
+cd niswey
 
 2. Install Dependencies
 
